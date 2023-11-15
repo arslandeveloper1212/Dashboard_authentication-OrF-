@@ -1,0 +1,25 @@
+.handle_form{
+   
+   max-width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+   
+}
+
+.button_input_here{
+   
+    display: flex;
+    position: relative;
+   
+}
+
+.button_input_here .btn{
+  
+    position: absolute;
+    right: 0;
+
+
+   
+}
